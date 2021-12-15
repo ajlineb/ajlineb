@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Fullstack development Certification!
+
+- 🌱 I’m currently learning React!
+
+- 📫 How to reach me: anthonylinebaugh95@gmail.com
 <!--
 **ajlineb/ajlineb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlineb&theme=midnight-purple&show_icons=true)
