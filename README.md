@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on my Fullstack development Certification!
 
-- 🌱 I’m currently learning React! 
-<img src="https://devstickers.com/assets/img/pro/uhro.png" alt="React" width="50"/>
+- 🌱 I’m currently learning React! <img src="https://devstickers.com/assets/img/pro/uhro.png" alt="React" width="20"/>
 
 - 📫 How to reach me: anthonylinebaugh95@gmail.com
 <!--
