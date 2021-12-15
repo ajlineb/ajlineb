@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on my Fullstack development Certification!
 
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning React! 
+- ![React Logo](/https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png){:height="100px" width="100px"}
 
 - 📫 How to reach me: anthonylinebaugh95@gmail.com
 <!--
