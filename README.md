@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="React" width="20"/>
 
 - 🔭 I’m currently working on my Fullstack development Certification!
 
