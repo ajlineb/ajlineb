@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on my Fullstack development Certification!
 
-- 🌱 I’m currently learning React! 
-- <img src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" alt="React" width="200"/>
+- 🌱 I’m currently learning React! <img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="React" width="100"/>
 
 - 📫 How to reach me: anthonylinebaugh95@gmail.com
 <!--
