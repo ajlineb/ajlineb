@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/ajlineb/Narrative_Treasures>
+<a href="https://github.com/ajlineb/Narrative_Treasures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=Narrative_Treasures&theme=buefy" />
 </a>
 <a href="https://github.com/ajlineb/ajlineb.github.io">
