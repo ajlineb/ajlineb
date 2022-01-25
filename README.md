@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajlineb&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> <a href="https://github.com/ajlineb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlineb&layout=compact&theme=midnight-purple&hide_border=true" /></a> 
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajlineb&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> | <a href="https://github.com/ajlineb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlineb&layout=compact&theme=midnight-purple&hide_border=true" /></a>  |
+| ------------- | ------------- |
 
 #### Top Repositories
 
