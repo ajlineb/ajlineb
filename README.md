@@ -1,7 +1,11 @@
 <p align="center"><a href="https://ajlineb.github.io/React-Portfolio"><img width="80%" src="./assets/header.png" /></a></p>
 <br />
 
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="React" width="20"/>
+### Im super passionate about Backend development but equally strong in Frontend development! <img src="https://c.tenor.com/P_ZKppej79cAAAAi/gif.gif" alt="check" width="20"/>
+
+<br />
+
+#### What am I up to currently?
 
 - 🔭 I’m currently working on my Fullstack development Certificate!
 
