@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ajlineb/Narrative_Treasures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=Narrative_Treasures&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=Narrative_Treasures&theme=midnight-purple" />
 </a>
 <a href="https://github.com/ajlineb/ajlineb.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=ajlineb.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=ajlineb.github.io&theme=midnight-purple" />
 </a>
