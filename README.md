@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlineb&theme=midnight-purple&show_icons=true) <a href="https://github.com/ajlineb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlineb&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/ajlineb/Narrative_Treasures">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/ajlineb/Astromical-Guidance-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=anuraghazra.github.io&theme=buefy" />
+</a>
