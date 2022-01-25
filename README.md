@@ -1,3 +1,6 @@
+<p align="center"><a href="https://ajlineb.github.io/React-Portfolio"><img width="80%" src="./assets/header.png" /></a></p>
+<br />
+
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="React" width="20"/>
 
 - 🔭 I’m currently working on my Fullstack development Certificate!
@@ -18,12 +21,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 #### Stats and Languages
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajlineb&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> | <a href="https://github.com/ajlineb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlineb&layout=compact&theme=midnight-purple&hide_border=true" /></a>  |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajlineb&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> | <a href="https://github.com/ajlineb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlineb&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Top Repositories
 
