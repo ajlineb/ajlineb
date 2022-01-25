@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/ajlineb/Narrative_Treasures">
+<a href="https://github.com/ajlineb/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=ajlineb.github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/ajlineb/Astromical-Guidance-Application">
+<a href="https://github.com/ajlineb/ajlineb.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=ajlineb.github.io&theme=buefy" />
 </a>
