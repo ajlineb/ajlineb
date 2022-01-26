@@ -7,12 +7,11 @@
 
 #### What am I up to currently?
 
-- 🔭 I’m currently working on my Fullstack development Certificate!
+- ⚡ Just graduated from UNC Chapel Hill Coding BootCamp!  
 
 - 🌱 I’m currently learning React! <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=790b761123f9b010427f9272bae5a404936cac21e34b4fd8&rid=giphy.gif&ct=s" alt="React" width="20"/>
 
 - 📫 How to reach me: anthonylinebaugh95@gmail.com  
-- ⚡ Just graduated from UNC Chapel Hill Coding BootCamp!
 <!--
 **ajlineb/ajlineb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
