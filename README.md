@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ajlineb.github.io/React-Portfolio"><img width="100%" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://ajlineb.github.io/React-Portfolio/"><img width="100%" src="./assets/header.png" /></a></p>
 <br />
 
 ### Im super passionate about Backend development but equally strong in Frontend development! <img src="https://c.tenor.com/P_ZKppej79cAAAAi/gif.gif" alt="check" width="20"/>
