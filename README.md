@@ -9,7 +9,7 @@
 
 - ⚡ Just graduated from UNC Chapel Hill Coding BootCamp!  
 
-- 🌱 I’m currently learning more about React! <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=790b761123f9b010427f9272bae5a404936cac21e34b4fd8&rid=giphy.gif&ct=s" alt="React" width="20"/> Also learning Bulma CSS framework <img src="https://bulma.io/images/bulma-logo.png" alt="bulma logo" width="90"/>
+- 🌱 I’m currently learning more about React! <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=790b761123f9b010427f9272bae5a404936cac21e34b4fd8&rid=giphy.gif&ct=s" alt="React" width="20"/> Also learning TailWind CSS framework <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="bulma logo" width="90"/>
 
 - 😄 Working on a new website dedicated to VRC creations.
 
