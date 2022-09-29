@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 #### Top Repositories
 
-<a href="https://github.com/ajlineb/Narrative_Treasures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=Narrative_Treasures&theme=midnight-purple&hide_border=true" />
+<a href="https://github.com/ajlineb/React-Weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=React-Weather&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/ajlineb/Astromical-Guidance-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajlineb&repo=Astromical-Guidance-Application&theme=midnight-purple&hide_border=true" />
